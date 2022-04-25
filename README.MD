@@ -8,13 +8,6 @@
 - Kaboom.js
 - Javascript
 
-### What I learned
-
-
-
-
-### Continued development
-
 
 
 ### Resources
@@ -26,7 +19,7 @@
 
 ## Author
 
-- Website - [Design Portfolio](https://chelseaquindipan.ca/)
+- Website - [Portfolio](https://www.chelseaquindipan.ca/)
 - LinkedIn - [LinkedIn](https://www.linkedin.com/in/chelsea-quindipan/)
 - Twitter - [Twitter](https://twitter.com/quindipc)
 
